@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "987135004466",
+    "firebase_url": "https://kourse-a93db.firebaseio.com",
+    "project_id": "kourse-a93db",
+    "storage_bucket": "kourse-a93db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987135004466:android:99f2c84bfad16f4fb6d12b",
+        "android_client_info": {
+          "package_name": "com.sanchit.courses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987135004466-hqjcigtgdj9nk40ivnra5k37dp7d4p80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy1k-tQVBTK5QeVyfpfl7PqHqo6aqBYWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987135004466-hqjcigtgdj9nk40ivnra5k37dp7d4p80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
