@@ -1,16 +1,26 @@
-# courses
+# Kourse
 
-A new Flutter application.
+An E-learning mobile applications that is developed using flutter to contain features like:
+* Authentication
+* Learner Dashboard
+* Instructor Dashboard
+* Course Page
+* Discover Courses Page
+* Add courses feature for Instructors
+* Bottom navigation bar for easy accessibility of features
+* Profile page for both instructors and learners
 
-## Getting Started
+## Screens
 
-This project is a starting point for a Flutter application.
+![](https://firebasestorage.googleapis.com/v0/b/portfoliowebsite-e8735.appspot.com/o/kourse%2Fsc1.png?alt=media) 
+![](https://firebasestorage.googleapis.com/v0/b/portfoliowebsite-e8735.appspot.com/o/kourse%2Fsc2.png?alt=media) 
+![](https://firebasestorage.googleapis.com/v0/b/portfoliowebsite-e8735.appspot.com/o/kourse%2Fsc3.png?alt=media)  
+![](https://firebasestorage.googleapis.com/v0/b/portfoliowebsite-e8735.appspot.com/o/kourse%2Fsc4.png?alt=media) 
+![](https://firebasestorage.googleapis.com/v0/b/portfoliowebsite-e8735.appspot.com/o/kourse%2Fsc5.png?alt=media) 
+![](https://firebasestorage.googleapis.com/v0/b/portfoliowebsite-e8735.appspot.com/o/kourse%2Fsc6.png?alt=media)  
+![](https://firebasestorage.googleapis.com/v0/b/portfoliowebsite-e8735.appspot.com/o/kourse%2Fsc7.png?alt=media) 
+![](https://firebasestorage.googleapis.com/v0/b/portfoliowebsite-e8735.appspot.com/o/kourse%2Fsc8.png?alt=media) 
 
-A few resources to get you started if this is your first Flutter project:
+## Contribution
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you want to contribute to the application open an issue and you'll be assigned the task. Cheers!
